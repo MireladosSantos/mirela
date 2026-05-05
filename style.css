@@ -1,0 +1,12 @@
+body{
+background: linear-gradient(to left, rgb(0, 191, 255), rgba(232, 81, 232, 0.831), rgb(216, 207, 207)); 
+color:black;
+text-align: center;
+}
+h2{
+background-color: lightblue ;
+}
+#igreja_{
+width: 50%;
+
+}
